@@ -162,7 +162,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **Vrushabh Patil**
 
 * **Email:** vrushabhpatil97711@gmail.com
-* **LinkedIn:** [Vrushabh Patil](https://www.google.com/search?q=https://www.linkedin.com/)
+* **LinkedIn:** [Vrushabh Patil]([https://www.google.com/search?q=https://www.linkedin.com/](https://www.linkedin.com/in/patilvrushabh/))
 * **Project Link:** [https://github.com/vrushabh-09/End-to-End-Data-Engineering-Pipeline-Databricks-AWS](https://github.com/vrushabh-09/End-to-End-Data-Engineering-Pipeline-Databricks-AWS)
 
 
